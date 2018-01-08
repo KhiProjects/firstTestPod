@@ -1,0 +1,22 @@
+{
+  "name": "FirstTestPod",
+  "version": "0.1.0",
+  "summary": "A short description of FirstTestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kevin/FirstTestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kevin": "kevin.hijlkema@meteoconsult.com"
+  },
+  "source": {
+    "git": "https://github.com/kevin/FirstTestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FirstTestPod/Classes/**/*"
+}
